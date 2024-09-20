@@ -1,0 +1,6 @@
+
+data/*
+logs
+mongo-data
+plugins
+postgres-db
