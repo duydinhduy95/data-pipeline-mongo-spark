@@ -14,5 +14,6 @@ Running the following commands in the terminal
 ```
 git clone https://github.com/duydinhduy95/data-pipeline-mongo-spark.git
 cd data-pipeline-mongo-spark
-
+docker build -t my_airflow .
+docker-compose up -d
 ```
