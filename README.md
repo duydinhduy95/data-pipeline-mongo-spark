@@ -7,3 +7,6 @@
 ##### 4. Finally load the result dataframe into mongodb.
 
 ![image](https://github.com/user-attachments/assets/234ad418-7991-4717-b678-92f4a9723a5c)
+
+### Setup
+Running the following commands in the terminal 
